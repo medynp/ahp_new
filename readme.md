@@ -61,23 +61,7 @@ Sesuaikan konfigurasi koneksi di database.py
 streamlit run app.py
 ```
 
-Penggunaan
-Login dan Role
-Admin dapat mengakses semua menu, termasuk manajemen user.
+## Contact
+Meidi - meidiynp29@gmail.com
 
-User hanya dapat mengakses menu perangkingan.
-
-Menu Utama
-Dashboard: Statistik umum.
-
-Manajemen Guru: CRUD guru.
-
-Manajemen Kriteria: CRUD kriteria dan subkriteria.
-
-Penilaian: Input dan import nilai guru.
-
-Perbandingan Kriteria/Subkriteria: Input matriks perbandingan berpasangan.
-
-Perangkingan: Lihat dan export ranking guru.
-
-Manajemen User: Kelola user dan role (admin only).
+Project Link: [https://github.com/medynp/ahp_new.git]
